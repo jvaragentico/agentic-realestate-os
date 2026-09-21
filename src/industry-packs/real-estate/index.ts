@@ -1,0 +1,1 @@
+export const realEstatePack={id:"real-estate",version:"0.1.0",assetTypes:["property"],opportunityTypes:["sale","rental","fractional_sandbox"],humanActions:["viewing","inspection","signing"]} as const;
